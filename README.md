@@ -1,4 +1,4 @@
-# Are the new Macbook's out yet?
+# Are the new Macbooks out yet?
 
 An unimportant site about an important question.
 
