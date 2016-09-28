@@ -20,9 +20,18 @@ html {
    Author's custom styles
    ========================================================================== */
 
+main {
+  width: 100%;
+}
 h1 {
-  text-size: 200%;
-  margin: 4em auto;
+  font-size: 200%;
+  text-align: center;
+  margin: 4em auto 0 auto;
+}
+h2 {
+  font-size: 300%;
+  text-align: center;
+  margin: 1em auto;
 }
 
 /* ==========================================================================
